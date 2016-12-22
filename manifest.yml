@@ -1,0 +1,10 @@
+---
+applications:
+- name: cf-academy-demo-app
+  memory: 512M
+  instances: 1
+  host: cf-academy-demo-app-nitesh
+  path: build/libs/spring-music.war 
+ 
+ services:
+   mysql_instance
