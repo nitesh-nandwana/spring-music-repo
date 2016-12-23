@@ -123,4 +123,3 @@ application .war file using `./gradlew assemble`.
 this is line345 line3
 khgdgujygg
 ABCHDSDJHSFIJSFJ
-SDGFDGHGRRFGGG
