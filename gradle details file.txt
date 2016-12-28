@@ -23,4 +23,4 @@ task wrapper(type: Wrapper) {
 
 gradle and gradlew
 
-builsship for gradle
+builsship for gradle http://docs.spring.io/spring-ws/site/reference
