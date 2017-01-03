@@ -23,4 +23,8 @@ task wrapper(type: Wrapper) {
 
 gradle and gradlew
 
-builsship for gradle http://docs.spring.io/spring-ws/site/reference
+builsship for gradle
+
+https://github.com/saurzcode/saurzcode-swagger-spring
+https://saurzcode.in/2014/08/generate-restful-api-doc-with-swagger
+
